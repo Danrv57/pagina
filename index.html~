@@ -1,12 +1,14 @@
  <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Pagina super increíble</title>
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>página para redes</h1>
+<p>mi nombre es daniel suárez garrido y mi correo: <a href="daniel.suarez@udc.es">daniel.suarez3@udc.es</a></p>
+<p2>un besazo a <a href="https://freedns.afraid.org/">FREE DNS</a> por dejarnos sus páginas<br></p2>
 
+<p3>y este es mi álbum de fotos del muñeco de jdk</p3>
 </body>
 </html> 
