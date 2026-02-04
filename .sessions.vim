@@ -13,11 +13,11 @@ if &shortmess =~ 'A'
 else
   set shortmess=aoO
 endif
-badd +0 index.html
+badd +0 indes.html
 argglobal
 %argdel
-$argadd index.html
-edit index.html
+$argadd indes.html
+edit indes.html
 argglobal
 setlocal foldmethod=manual
 setlocal foldexpr=0
